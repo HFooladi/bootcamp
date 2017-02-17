@@ -1,5 +1,5 @@
 """
-Convert DNA sequences to RNA.
+Convert DNA sequences to RNA and Convert a DNA sequence into its reverse complement as RNA.
 """
 
 def rna(seq):
